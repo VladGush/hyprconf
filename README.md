@@ -1,1 +1,1 @@
-# hyprconf
+# hyprconf for laptop
